@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./img/matematik-formulleri_5.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+#container{
+    background-color: gray;
+    width: 15rem;
+    margin: auto;
+    border-radius: 15px;
+    opacity: 0.95;
+    height: auto;
+}
+h1{
+    text-align: center;
+    margin-top: 1rem;
+    padding: 1rem;
+    
+}
+input{
+    width: 6rem;
+    height: 8vh;
+    margin: 0 5rem;
+    border: 3px solid rgb(29, 28, 31);
+    border-radius: 1rem;
+    background-color: whitesmoke;
+    font-size: 1.3rem;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#number{
+
+}
+p{
+    
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 2rem;
+    font-weight: bolder;
+}
+
+button{
+    width: 6rem;
+    height: 8vh;
+    margin: 0 5rem;
+    margin-top: 1rem;
+    border-radius: 15px;
+    background-color: darkblue;
+    border: 2px solid black;
+    color: whitesmoke;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+h5{
+    font-size: 1.75rem;
+    text-align: center;
+}
+
+h4{
+    font-size: 1.3rem;
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 30%;
+    height: 3vh;
+    margin-left: 35%;
+}
